@@ -4,7 +4,7 @@ from matplotlib.patches import Polygon
 from matplotlib.colors import to_rgba
 import matplotlib.cm as cm
 
-with open('geometric_data2.pkl', 'rb') as f:
+with open('geometric_data.pkl', 'rb') as f:
     loaded_dict = pickle.load(f)
 
 fig, ax = plt.subplots(figsize=(10, 10))
