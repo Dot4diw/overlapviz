@@ -1,6 +1,7 @@
 # overlapviz （Under development!）
 A Python toolkit for professional set visualization, transforming complex data overlaps into intuitive Venn and UpSet plots.
 
+![](./figs/4set_venn.png)
 
 ## Features
 
